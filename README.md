@@ -4,9 +4,9 @@
 
 ###배포 Version
 
-click [** HERE **](https://github.com/ncomztwo/ADTCapsHome/tree/master/Release_Version/ADTCapsHomeService.apk) to install the app.
+click [** HERE **](https://github.com/ncomztwo/ADTCapsHome/raw/master/Release_Version/ADTCapsHomeService.apk) to install the app.
 <br>
 <br>
 ###Test Version
 
-click [** HERE **](https://github.com/ncomztwo/ADTCapsHome/tree/master/Test_Version/ADTCapsHomeService.apk) to install the app.
+click [** HERE **](https://github.com/ncomztwo/ADTCapsHome/raw/master/Test_Version/ADTCapsHomeService.apk) to install the app.
