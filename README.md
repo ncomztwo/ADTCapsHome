@@ -1,6 +1,6 @@
-# Android ADT_캡스 App
+# Android ADT_캡스홈
 
-## version : 0.1.0.1
+## version  :  0.1.0.1
 
 ###배포 Version
 
