@@ -2,4 +2,4 @@
 
 0.1.0.1
 
-click [** HERE **](https://github.com/ncomztwo/ADTCapsHome/blob/master/xxx.apk) to install the app.
+click [** HERE **](https://github.com/ncomztwo/ADTCapsHome/blob/master/ADTCapsHomeService.apk) to install the app.
