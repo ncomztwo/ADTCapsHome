@@ -1,13 +1,13 @@
 # Android ADT_캡스 App
 
-# version : 0.1.0.1
+## version : 0.1.0.1
 
-##배포 Version
+###배포 Version
 
 click [** HERE **](https://github.com/ncomztwo/ADTCapsHome/tree/master/Release_Version/ADTCapsHomeService.apk) to install the app.
 
 
 
-##Test Version
+###Test Version
 
 click [** HERE **](https://github.com/ncomztwo/ADTCapsHome/tree/master/Test_Version/ADTCapsHomeService.apk) to install the app.
