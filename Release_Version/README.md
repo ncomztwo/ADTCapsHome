@@ -1,5 +1,5 @@
 # Android 캡스홈 Test
 
-### Version  :  0.1.2.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2016-12-12  14:23
+### Version  :  0.1.2.2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2016-12-12  16:10
 <br>
 click [** HERE **](https://github.com/ncomztwo/ADTCapsHome/raw/master/Release_Version/ADTCapsHomeService.apk) to install the app.
